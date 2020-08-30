@@ -12,7 +12,6 @@
 ```
  * I'm Alfiananda P.A
  * I'm 19y.o 
- * Fun Fact: I'm A Shy Person 😳
  * Currently Do Learning and Kanging Codes ;_;
 ```
 
