@@ -1,30 +1,20 @@
-## Hello there 👋
-
----
-![Header](https://telegra.ph/file/bfd792b689250a0c0660e.jpg)
----
-
-
->Let The World Destroy Itself
-
-
-**Talking About Personal Stuff:**
-```
- * I'm Alfiananda P.A
- * I'm 19y.o 
- * Currently Do Learning and Kanging Codes ;_;
-```
-
---- 
-**📍You can find me on:**
+## Hi there <img src="https://github.com/alfianandaa/alfianandaa/raw/master/assets/wave1.gif" width="30" height="30">
+___
+<img src="https://github.com/alfianandaa/alfianandaa/raw/master/assets/wave2.gif" width="120" height="120" align="right">
 
 <a href="https://t.me/alfiananda1"> <img src="https://img.shields.io/badge/Telegram-blue?style=social&logo=Telegram" /></a>
----
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=alfianandaa)
+___
 
+## **About Me**
+
+- 🌱 I'm Alfiananda P.A
+- 🌷 I'm 19y.o 
+- 🐍 I'm Currently Learning Python Language
+- 🤔 I’m looking for help with Search Engine.
 ----
 **🖥Profile overview:**
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=alfianandaa)
- 
 <a href="https://github.com/alfianandaa/ProjectAlf "> <img src="https://github-readme-stats.vercel.app/api?username=alfianandaa&show_icons=true&theme=blue-green" /></a>
+<a href="https://github.com/alfianandaa"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfianandaa&layout=compact&theme=blue-green" /></a>
  ----
