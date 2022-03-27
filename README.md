@@ -9,9 +9,10 @@ ___
 ## **About Me**
 
 - 🌱 I'm Alfiananda P.A
-- 🌷 I'm 19y.o 
-- 🐍 I'm Currently Learning Python Language
-- 🤔 I’m looking for help with Search Engine.
+- 🌷 I'm 20y.o 
+- 🐍 I might Learning Python Language?
+- 🤔 I’m looking for help with Search Engine
+- 🤔 Are u shota?, Looking for shota to cheer me up hehe.
 ----
 **🖥Profile overview:**
 
